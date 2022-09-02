@@ -2,8 +2,8 @@
 
 - 🌍  I'm based in UK
 - 🧠  I'm learning Java, JavaScript, Python and Web Dev
-  <a href="https://www.github.com/deadpan1" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/deadpan1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+  <a href="https://www.github.com/deadpan1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/deadpan1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills<p align="left">
 
