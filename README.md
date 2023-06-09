@@ -1,4 +1,4 @@
-# Hi My name is Deadpan
+# Hi My name is DeadpanDev
 
 - 🌍  I'm based in UK
 - 🧠  I'm learning Java, JavaScript, Python and Web Dev
